@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_name">City Name</string>
+    <string name="no_data_message">No data available for the selected city.</string>
+    <string name="weather">Weather</string>
+
+    <string name="text_pressure">Pressure</string>
+    <string name="text_wind">Wind</string>
+    <string name="text_sunrise">Sunrise</string>
+    <string name="text_humidity">Humidity</string>
+    <string name="text_visibility">Visibility</string>
+    <string name="text_sunset">Sunset</string>
+
+    <string name="enable">ENABLE</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="enable_location">Enable Location so the app can update weather report.</string>
+    <string name="invalid_city">Enter valid city name</string>
+</resources>
